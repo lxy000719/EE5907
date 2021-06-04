@@ -1,3 +1,3 @@
 # EE5907
 
-NUS EE5907 Assignment
+NUS EE5907 Pattern Recognition Assignment
